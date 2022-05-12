@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2022-05-12T15:23:44.448844-06:00"
+entries:
+  waypoint-app-helm-chart:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2022-05-12T15:27:43.860589-06:00"
+    description: A Helm chart to test deploying applications via Waypoint
+    digest: eb0db63572a516ef079744d44d82c347662429e412d940ad6a56918e86696632
+    name: waypoint-app-helm-chart
+    type: application
+    urls:
+    - https://ryanwholey.github.io/helm-charts/waypoint-app-helm-chart-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-05-12T15:27:43.860218-06:00"
