@@ -3,7 +3,17 @@ entries:
   app-helm-chart:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2022-07-21T14:24:30.210065-06:00"
+    created: "2022-07-21T14:33:13.082293-06:00"
+    description: A Helm chart to test application deployments
+    digest: 1f1b86a5ee1be33dc6ade8ca36a7e99b539d4b6c5b1dbb251246a671b5444290
+    name: app-helm-chart
+    type: application
+    urls:
+    - https://ryanwholey.github.io/helm-charts/app-helm-chart-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2022-07-21T14:33:13.08201-06:00"
     description: A Helm chart to test application deployments
     digest: f1e5caba3faa89d832ba5bd49afeee2176f49b206cf5675b77bbfd59279d2aea
     name: app-helm-chart
@@ -13,7 +23,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2022-07-21T14:24:30.209559-06:00"
+    created: "2022-07-21T14:33:13.081728-06:00"
     description: A Helm chart to test application deployments
     digest: 165217bb849716d2747584b21416efe071d9dc74aebece7afb966b8f01cdbed0
     name: app-helm-chart
@@ -24,7 +34,7 @@ entries:
   kube-plex:
   - apiVersion: v1
     appVersion: 1.16.0.1226-7eb2c8f6f
-    created: "2022-07-21T14:24:30.211992-06:00"
+    created: "2022-07-21T14:33:13.082981-06:00"
     description: Plex Media Server
     digest: 3e7f852c07c1a469c501c1468d5b18d03f6a9382684b01776ff21f9006193be4
     home: https://plex.tv/
@@ -43,7 +53,7 @@ entries:
   waypoint-app-helm-chart:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2022-07-21T14:24:30.217716-06:00"
+    created: "2022-07-21T14:33:13.085376-06:00"
     description: A Helm chart to test deploying applications via Waypoint
     digest: 86b7da584b59dadc4cc77ffb49e574f73033db40cb3f18180a61c15b24f11f02
     name: waypoint-app-helm-chart
@@ -53,7 +63,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2022-07-21T14:24:30.216696-06:00"
+    created: "2022-07-21T14:33:13.084298-06:00"
     description: A Helm chart to test deploying applications via Waypoint
     digest: b331498cb8abdef44d1446cce512fed4d082d774b09071be1d008a0d2b3ba30a
     name: waypoint-app-helm-chart
@@ -63,7 +73,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2022-07-21T14:24:30.215667-06:00"
+    created: "2022-07-21T14:33:13.084009-06:00"
     description: A Helm chart to test deploying applications via Waypoint
     digest: 042da38ac570127340a70e3d2c4997826ef989e7301d5e349447ff8526929040
     name: waypoint-app-helm-chart
@@ -73,7 +83,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2022-07-21T14:24:30.214672-06:00"
+    created: "2022-07-21T14:33:13.083722-06:00"
     description: A Helm chart to test deploying applications via Waypoint
     digest: 5e67773569b571c18da92c1b12941d82b9c4b870cc48f12f4fc99de33f6fccbf
     name: waypoint-app-helm-chart
@@ -83,7 +93,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2022-07-21T14:24:30.213801-06:00"
+    created: "2022-07-21T14:33:13.083469-06:00"
     description: A Helm chart to test deploying applications via Waypoint
     digest: 2c0042db83fdeb2f3527d03c6ac70e1be428225d460094e32d5a2a9b0e7908d1
     name: waypoint-app-helm-chart
@@ -93,7 +103,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2022-07-21T14:24:30.212881-06:00"
+    created: "2022-07-21T14:33:13.083213-06:00"
     description: A Helm chart to test deploying applications via Waypoint
     digest: eb0db63572a516ef079744d44d82c347662429e412d940ad6a56918e86696632
     name: waypoint-app-helm-chart
@@ -101,4 +111,4 @@ entries:
     urls:
     - https://ryanwholey.github.io/helm-charts/waypoint-app-helm-chart-0.0.1.tgz
     version: 0.0.1
-generated: "2022-07-21T14:24:30.207901-06:00"
+generated: "2022-07-21T14:33:13.081268-06:00"
